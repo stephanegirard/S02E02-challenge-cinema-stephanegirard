@@ -82,7 +82,7 @@ for ($indice = 0; $indice < 6; $indice ++) {
     <ul>
     <?php
         for ($ind = 0; $ind < 4; $ind ++) {
-
+            ?>
     
             <?php echo "<li>".$salles[$ind]."</li>"; ?>
 
